@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		2A8A763C16DCF4BD00DEEEB7 /* helloworldtesty.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = helloworldtesty.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		2A8A763116DCF34E00DEEEB7 = {
 			isa = PBXGroup;
 			children = (
+				2A8A763C16DCF4BD00DEEEB7 /* helloworldtesty.py */,
 			);
 			sourceTree = "<group>";
 		};
